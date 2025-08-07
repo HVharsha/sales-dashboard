@@ -119,6 +119,6 @@ mvnw.cmd spring-boot:run
 
 ## 🙋‍♂️ Author
 
-**Kashyap K R**  
-📍 [GitHub](https://github.com/Kashyap888)  
-🔗 [LinkedIn](https://linkedin.com/in/kashyap-k-r-b6b764266)
+**Hithesh H V**  
+📍 [GitHub](https://github.com/HVharsha)  
+🔗 [LinkedIn](https://www.linkedin.com/in/hithesh-h-v-b4881b266)
